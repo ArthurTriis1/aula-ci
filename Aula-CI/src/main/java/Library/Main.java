@@ -3,8 +3,8 @@
  */
 package Library;
 
-public class Library {
+public class Main {
     public boolean someLibraryMethod() {
-        return true;
+        return false;
     }
 }
